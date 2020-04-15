@@ -1,4 +1,4 @@
 # website-switch
-Sitio web consola Nintendo Switch
+Landing page consola Nintendo Switch
 
-http://gonzaloelias.me/website-switch/
+https://gonzalogc.github.io/website-switch/
