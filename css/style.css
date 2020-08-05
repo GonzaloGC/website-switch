@@ -200,3 +200,17 @@ div .circulo {
     -webkit-text-stroke: 0.5px rgba(75, 71, 71, 0.479);
     transition-duration: 0.3s;
 }
+
+@media screen and (max-width: 500px) {
+    nav {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .big-circle {
+        right: 0px;
+        top: 0px;
+        z-index: -1;
+    }
+}
